@@ -34,7 +34,7 @@
 
 <p align="left"> <p>Design Tools:</p>
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=ae,blender,ai,ps,pr " />
+    <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,blender " />
   </a>
 </p>
 
