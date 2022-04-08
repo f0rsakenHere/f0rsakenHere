@@ -22,7 +22,7 @@
 
 <p align="left"> <p>Database:</p>
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis," />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
   </a>
 </p>
 
