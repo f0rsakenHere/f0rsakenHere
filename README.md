@@ -16,7 +16,7 @@
 
 <p align="left"> <p>Frontend:</p>
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,tailwind,react,nextjs,angular" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,tailwind,react,nextjs" />
   </a>
 </p>
 
