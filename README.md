@@ -37,5 +37,3 @@
     <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,blender " />
   </a>
 </p>
-
-![Mehedi's github stats](https://github-readme-stats.vercel.app/api?username=f0rsakenHere&show_icons=true&theme=tokyonight) ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=f0rsakenHere&theme=tokyonight)
